@@ -1,8 +1,0 @@
-flask
-flask-cors
-langchain
-langchain-community
-langchain-huggingface
-sentence-transformers
-faiss-cpu
-pypdf
