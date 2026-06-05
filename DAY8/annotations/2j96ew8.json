@@ -1,0 +1,28 @@
+{
+  "version": "6.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fracture",
+      "points": [
+        [
+          69.05555555555557,
+          256.11111111111114
+        ],
+        [
+          183.5,
+          335.55555555555554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "2j96ew8.jpg",
+  "imageData": null,
+  "imageHeight": 470,
+  "imageWidth": 222
+}

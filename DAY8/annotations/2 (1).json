@@ -1,0 +1,46 @@
+{
+  "version": "6.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fracture",
+      "points": [
+        [
+          59.795918367346964,
+          579.561224489796
+        ],
+        [
+          461.8367346938776,
+          1091.8061224489797
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "fracture",
+      "points": [
+        [
+          816.9387755102041,
+          581.6020408163266
+        ],
+        [
+          1139.387755102041,
+          1099.9693877551022
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "2 (1).jpg",
+  "imageData": null,
+  "imageHeight": 1653,
+  "imageWidth": 1240
+}
